@@ -1,0 +1,13 @@
+# Where the exercises etc go, given the solutions
+
+[solution.glm]
+out_path = '{one_down}/glmtools/glm.py'
+
+[solution.test_glm]
+out_path = '{one_down}/glmtools/tests/test_glm.py'
+
+[solution.glm4d]
+out_path = '{one_down}/glmtools/glm4d.py'
+
+[solution.test_glm4d]
+out_path = '{one_down}/glmtools/tests/test_glm4d.py'
